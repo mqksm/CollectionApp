@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EF3379A324620F05002F26D8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EF3379A224620F05002F26D8 /* .gitignore */; };
 		EFCF0DC62461A598000265AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFCF0DC52461A598000265AB /* AppDelegate.swift */; };
 		EFCF0DC82461A598000265AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFCF0DC72461A598000265AB /* SceneDelegate.swift */; };
 		EFCF0DCD2461A598000265AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFCF0DCB2461A598000265AB /* Main.storyboard */; };
@@ -21,7 +20,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EF3379A224620F05002F26D8 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		EFCF0DC22461A598000265AB /* CollectionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFCF0DC52461A598000265AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFCF0DC72461A598000265AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -52,7 +50,6 @@
 			children = (
 				EFCF0DC42461A598000265AB /* CollectionApp */,
 				EFCF0DC32461A598000265AB /* Products */,
-				EF3379A224620F05002F26D8 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -140,7 +137,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF3379A324620F05002F26D8 /* .gitignore in Resources */,
 				EFCF0DD22461A59B000265AB /* LaunchScreen.storyboard in Resources */,
 				EFCF0DCF2461A59B000265AB /* Assets.xcassets in Resources */,
 				EFCF0DCD2461A598000265AB /* Main.storyboard in Resources */,
